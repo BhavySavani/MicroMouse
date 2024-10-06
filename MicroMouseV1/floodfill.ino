@@ -1,3 +1,4 @@
+//Author - Bhavy Savani and Ali Murabbi
 
 void wallcheck(int x, int y) {
   up = false, down = false, left = false, right = false;
