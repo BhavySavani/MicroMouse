@@ -1,3 +1,5 @@
+//Author - Bhavy Savani and Ali Murabbi
+
 void encoder_right_func() {
   if (right_count == true) {
     if (digitalRead(right_encoderpinA) > digitalRead(right_encoderpinB))
